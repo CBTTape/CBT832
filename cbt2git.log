@@ -1,0 +1,21 @@
+2023-08-06 07:50:58.788204 - Initialized conversion of CBT832
+2023-08-06 07:50:58.957851 - Received CBT.V505.FILE832.PDS from FILE832.XMI 
+2023-08-06 07:50:58.959947 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:50:58.960905 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/$$NOTE01
+2023-08-06 07:50:58.961818 - Found $$NOTE02.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/$$NOTE02
+2023-08-06 07:50:58.962719 - Found $$README.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/$$README
+2023-08-06 07:50:58.963660 - Found @FILE832.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/@FILE832
+2023-08-06 07:50:58.968334 - Found CLEAR.xmi (application/xmit) in CBT.V505.FILE832.PDS
+2023-08-06 07:50:58.973935   - Received RECFM=U data, stored XMIT file as CBT832/CLEAR.xmi
+2023-08-06 07:50:58.975990 - De-xmi-ed DOCPRLAN to CBT832/docs/DOCPRLAN.doc
+2023-08-06 07:50:58.976871 - Found JOBPRINT.jcl (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/JOBPRINT
+2023-08-06 07:50:58.977784 - Found LIBDEF.rexx (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/LIBDEF
+2023-08-06 07:50:58.977794 - Found PRTLAN.bin containing application/octet-stream, moved to PDS/PRTLAN
+2023-08-06 07:50:58.978727 - Found PRTLANPG.bin containing application/octet-stream, moved to PDS/PRTLANPG
+2023-08-06 07:50:58.980462 - Found PRTLANPH.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/PRTLANPH
+2023-08-06 07:50:58.981317 - Found PRTLANPN.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/PRTLANPN
+2023-08-06 07:50:58.982216 - Found PRTLANP1.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/PRTLANP1
+2023-08-06 07:50:58.983072 - Found PRTLANP2.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/PRTLANP2
+2023-08-06 07:50:58.983912 - Found PRTLANP3.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/PRTLANP3
+2023-08-06 07:50:58.984731 - Found PRTLSRIN.txt (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/PRTLSRIN
+2023-08-06 07:50:58.985623 - Found PYPRINT.rexx (text/plain) in CBT.V505.FILE832.PDS, moved to PDS/PYPRINT
