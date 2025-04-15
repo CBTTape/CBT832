@@ -1,21 +1,21 @@
-2025-04-15 05:56:58.944222 - Received CBT.V508.FILE832.PDS from FILE832.XMI 
-2025-04-15 05:56:58.945889 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:56:58.946085 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/$$NOTE01
-2025-04-15 05:56:58.946411 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/$$NOTE02
-2025-04-15 05:56:58.946592 - Found $$README.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/$$README
-2025-04-15 05:56:58.946643 - Found @FILE832.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/@FILE832
-2025-04-15 05:56:58.946903 - Found CLEAR.xmi (application/xmit) in CBT.V508.FILE832.PDS, moved to PDS/CLEAR.xmi
-2025-04-15 05:56:58.952550 - Received SYS9.V000.LINKLIB from CLEAR.xmi 
-2025-04-15 05:56:58.953211 - Found CLEAR.bin (application/octet-stream) in SYS9.V000.LINKLIB, moved to CLEAR/CLEAR
-2025-04-15 05:56:58.955016 - Found DOCPRLAN.doc (application/msword) in CBT.V508.FILE832.PDS, moved to docs/DOCPRLAN.doc
-2025-04-15 05:56:58.955336 - Found JOBPRINT.jcl (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/JOBPRINT
-2025-04-15 05:56:58.955646 - Found LIBDEF.rexx (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/LIBDEF
-2025-04-15 05:56:58.956308 - Found PRTLAN.bin (application/octet-stream) in CBT.V508.FILE832.PDS, moved to PDS/PRTLAN
-2025-04-15 05:56:58.957119 - Found PRTLANPG.bin (application/octet-stream) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANPG
-2025-04-15 05:56:58.957465 - Found PRTLANPH.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANPH
-2025-04-15 05:56:58.957668 - Found PRTLANPN.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANPN
-2025-04-15 05:56:58.957882 - Found PRTLANP1.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANP1
-2025-04-15 05:56:58.958071 - Found PRTLANP2.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANP2
-2025-04-15 05:56:58.958266 - Found PRTLANP3.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANP3
-2025-04-15 05:56:58.958444 - Found PRTLSRIN.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLSRIN
-2025-04-15 05:56:58.958673 - Found PYPRINT.rexx (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PYPRINT
+2025-04-16 00:37:50.058570 - Received CBT.V508.FILE832.PDS from FILE832.XMI 
+2025-04-16 00:37:50.059637 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/$$$#DATE
+2025-04-16 00:37:50.059687 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/$$NOTE01
+2025-04-16 00:37:50.059725 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/$$NOTE02
+2025-04-16 00:37:50.059767 - Found $$README.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/$$README
+2025-04-16 00:37:50.059803 - Found @FILE832.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/@FILE832
+2025-04-16 00:37:50.059895 - Found CLEAR.xmi (application/xmit) in CBT.V508.FILE832.PDS, moved to PDS/CLEAR.xmi
+2025-04-16 00:37:50.064340 - Received SYS9.V000.LINKLIB from CLEAR.xmi 
+2025-04-16 00:37:50.064657 - Found CLEAR.bin (application/octet-stream) in SYS9.V000.LINKLIB, moved to CLEAR/CLEAR
+2025-04-16 00:37:50.065219 - Found DOCPRLAN.doc (application/msword) in CBT.V508.FILE832.PDS, moved to docs/DOCPRLAN.doc
+2025-04-16 00:37:50.065268 - Found JOBPRINT.jcl (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/JOBPRINT
+2025-04-16 00:37:50.065307 - Found LIBDEF.rexx (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/LIBDEF
+2025-04-16 00:37:50.065366 - Found PRTLAN.bin (application/octet-stream) in CBT.V508.FILE832.PDS, moved to PDS/PRTLAN
+2025-04-16 00:37:50.065439 - Found PRTLANPG.bin (application/octet-stream) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANPG
+2025-04-16 00:37:50.065475 - Found PRTLANPH.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANPH
+2025-04-16 00:37:50.065510 - Found PRTLANPN.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANPN
+2025-04-16 00:37:50.065543 - Found PRTLANP1.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANP1
+2025-04-16 00:37:50.065576 - Found PRTLANP2.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANP2
+2025-04-16 00:37:50.065609 - Found PRTLANP3.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLANP3
+2025-04-16 00:37:50.065645 - Found PRTLSRIN.txt (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PRTLSRIN
+2025-04-16 00:37:50.065684 - Found PYPRINT.rexx (text/plain) in CBT.V508.FILE832.PDS, moved to PDS/PYPRINT
